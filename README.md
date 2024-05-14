@@ -1,8 +1,9 @@
 # Notes
 
-1. [Microservices](Microservices.md)
-2. [Microservices vs Macroservices](MicroVsMacroArch.md)
+1. [Microservices](microservices/Microservices.md)
+2. [Microservices vs Macroservices](microservices/MicroVsMacroArch.md)
 
+---
 
 # Other Links
 1. https://www.educative.io/courses/system-design-interview-prep-crash-course
@@ -13,3 +14,39 @@
 6. https://www.educative.io/courses/decode-coding-interview-java
 7. https://www.educative.io/courses/java-interview-handbook
 8. https://www.educative.io/courses/mastering-apache-kafka
+
+
+---
+
+# Unorganized list items
+
+# Job Switch Topics
+
+# System Design
+
+
+# Coding
+
+
+# Tech Side
+
+## Java
+
+##### Lambdas/Streams
+##### Multithreading
+##### OOPS
+
+## Microservices
+
+## SpringBoot
+
+##### Spring JPA
+##### Spring AOP
+##### Spring Security
+
+## Docker
+
+## Git
+
+
+Reliability vs availability
